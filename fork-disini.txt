@@ -1,1 +1,6 @@
-silahkan fork disini
+List Deadline :
+- IMK
+- BPWL
+- Prak. BDL
+- PBO
+- SO
